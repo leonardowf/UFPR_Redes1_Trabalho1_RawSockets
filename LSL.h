@@ -1,0 +1,1 @@
+void clienteLSL(int parametro);
