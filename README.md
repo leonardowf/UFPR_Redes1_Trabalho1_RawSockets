@@ -1,3 +1,5 @@
+*Atenção: eu vou melhorar o código do meu trabalho para ficar mais legível e menos idiota (leia-se lazy), no momento eu não vou conseguir fazer isso, mas vou disponibilizar a versão que apresentei e com o tempo eu vou recriando. Não ligue a bagunça :D*
+
 #UFPR - Redes1 - Trabalho1 - Raw Sockets - 2012/1
 ================================
 
